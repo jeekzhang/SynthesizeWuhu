@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .idea
 .vercel
 =======
+=======
+>>>>>>> 6c4337001f19ff50f9df28591aae05d76f7eb25e
 # Build and Release Folders
 bin-debug/
 bin-release/
@@ -20,4 +23,7 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+<<<<<<< HEAD
 >>>>>>> 8a5b6012714f179d97b006b3b41c7bd2b9387111
+=======
+>>>>>>> 6c4337001f19ff50f9df28591aae05d76f7eb25e
